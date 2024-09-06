@@ -3,7 +3,7 @@
 ## Project Recap
 * **Tools:** Python
 * **Libraries Used:** Pandas, Matplotlib, Seaborn
-* **Skills Gained:** Data Cleaning/Processing, Data Visualization
+* **Skills:** Data Cleaning/Processing, Data Visualization
 * **Dataset:** https://www.kaggle.com/datasets/whenamancodes/hr-employee-attrition
 
 <br>
