@@ -66,7 +66,7 @@ The company's employee data contains roungly 1400 rows with 35 different columns
 Exploring the data to gain insight and clean the data by changing data types, removing duplicated values, handling missing values and removing outliers if needed. 
 * **Data Types**: All data types for 35 columns are in accordance with values inside the column.
 * **Missing/Null Values**: There were no missing values in all of the columns.
-* **Drop Column**: Columns 'EmployeeCount', 'Over18', and 'StandardHours' were each removed because each of them contained only 1 value. We cannot gain insight if all the values are the same. For that reason, the three columns were dropped.
+* **Drop Column**: Columns *EmployeeCount*, *Over18*, and *StandardHours* were each removed because each of them contained only 1 value. We cannot gain insight if all the values are the same. For that reason, the three columns were dropped.
 * **Outliers**: There are no particular outliers that needs to be removed.
 
 <br>
