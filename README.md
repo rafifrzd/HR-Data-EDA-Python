@@ -61,7 +61,9 @@ The company's employee data contains roungly 1400 rows with 35 different columns
 <br>
 
 ## Data Processing
-**Data Exploration:** Exploring the data to gain insight and clean the data by changing data types, removing duplicated values, handling missing values and removing outliers if needed. 
+
+**Data Exploration:** <br> 
+Exploring the data to gain insight and clean the data by changing data types, removing duplicated values, handling missing values and removing outliers if needed. 
 * **Data Types**: All data types for 35 columns are in accordance with values inside the column.
 * **Missing/Null Values**: There were no missing values in all of the columns.
 * **Drop Column**: Columns 'EmployeeCount', 'Over18', and 'StandardHours' were each removed because each of them contained only 1 value. We cannot gain insight if all the values are the same. For that reason, the three columns were dropped.
@@ -69,7 +71,7 @@ The company's employee data contains roungly 1400 rows with 35 different columns
 
 <br>
 
-* **Data Visualization**: <br>
+**Data Visualization**: <br>
 Python libraries such as Matplotlib and Seaborn were used to create informative and visually appealing charts and graphs that illustrates attrition patterns. The visualizations include a variety of formats, such as combined histogram and line chart, correlation matrix, and bar chart. These graphical representations helps the Data Team to analyze the relationships between various factors within the dataset to generate valuable insights.
 
 <br>
